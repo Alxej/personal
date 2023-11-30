@@ -1,1 +1,2 @@
-print("GIT PROBLEM")
+if __name__ == "__main__":
+    print("Jokerge")
